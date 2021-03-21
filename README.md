@@ -12,3 +12,13 @@ allows performig following operations:
 Here are screenshots of how this module works:
 
 ![alt text](readmeImages/photo_2021-03-21_20-28-56.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-10.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-58.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-12.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-15.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-18.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-20.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-22.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-24.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-26.jpg)
+![alt text](readmeImages/photo_2021-03-21_20-29-28.jpg)
