@@ -1,4 +1,4 @@
-#Bank mobile application
+#Bank mobile react native application
 
 A front-end module of Bank card chenking application. This module provides ui and connection to server on user-oriented endpoints;
 allows performig following operations:
