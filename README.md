@@ -1,5 +1,7 @@
 #Bank mobile react native application
 
+This application allows user to track his income and expend from Monobank and PrivatBank in one place.
+
 A front-end module of Bank card chenking application. This module provides ui and connection to server on user-oriented endpoints;
 allows performig following operations:
 - connecting Privatbank and Monobank accounts to profile;
