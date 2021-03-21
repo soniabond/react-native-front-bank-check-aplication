@@ -7,6 +7,7 @@ allows performig following operations:
 - tracking discharges and income amounts on all provided categories by application;
 - detalised analysys of each and every category activity;
 - adding and changind spending limits on every category;
+- graph visualization of income and expend amounts; of expend on each category amount
 - sing in and sign up,
 
 Here are screenshots of how this module works:
